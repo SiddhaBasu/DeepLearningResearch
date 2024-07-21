@@ -2,10 +2,6 @@
 
 A collection of projects to understand the basics of single-modality deep learning systems. 
 
-```bash
-pip install foobar
-```
-
 ## Projects
 
 1. TensorFlow Basics
